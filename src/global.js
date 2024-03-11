@@ -1,0 +1,1 @@
+export const API = "https://pet-adoption-platform-backend-gamma.vercel.app"
